@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dikshya Khatri</h1>
-<h3 align="center">I am an AI 1st Year Student</h3>
+<h3 align="center">I am an AI 2nd Year Student</h3>
 
 
 <p align="center">
