@@ -4,9 +4,6 @@
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/540e4feb-0f6b-4ca8-8c89-5d0138ca8d0e">
-p>
-  <br>
-![image](https://github.com/user-attachments/assets/540e4feb-0f6b-4ca8-8c89-5d0138ca8d0e)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshyakhatri8&label=Profile%20views&color=0e75b6&style=flat" alt="dikshyakhatri8" /> </p>
 
